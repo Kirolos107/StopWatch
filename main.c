@@ -20,7 +20,6 @@ void main(void)
 
 	uint8 STW_u8Sec_Iterator = 0u;
 
-	uint8 STW_u8User_Choice;
 	uint8 STW_u8Program_Status = 1u;
 
 
