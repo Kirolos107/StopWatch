@@ -10,8 +10,6 @@
 
 void main(void)
 {
-	DIO_u8SetPortDirection(DIO_u8PORTA,DIO_u8PORT_OUTPUT);
-
 	PORT_voidInit();
 
 	CLCD_voidInit();
